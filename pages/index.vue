@@ -43,11 +43,11 @@
             GitHub
           </a>
           <a
-            href="mailto:contact@florianbarbato.com"
+            href="mailto:florian@florianbarbato.com"
             target="_blank"
             class="button--link margin--top--m"
           >
-            contact@florianbarbato.com
+            florian@florianbarbato.com
           </a>
         </div>
       </div>
