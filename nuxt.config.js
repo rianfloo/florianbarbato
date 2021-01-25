@@ -67,7 +67,7 @@ export default {
             fr: {
               subtitle: 'Développeur & Product Designer',
               description:
-                'Développeur full stack spécialisé en JavaScript (VueJS, ReactJs & NodeJS) et Ruby On Rails. Je créé et intègre également des interfaces utilisateurs. Je suis un grand supporter du Stade Rennais et de Bourgogne rouge.'
+                'Développeur full stack spécialisé en JavaScript (VueJS, ReactJs & NodeJS) et Ruby On Rails. Je créé et intègre également des interfaces utilisateurs. Je suis un grand supporter du Stade Rennais et fan de Bourgogne rouge.'
             }
           }
         }
