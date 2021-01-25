@@ -35,6 +35,13 @@
           >
             Dribbble
           </a>
+           <a
+            href="https://www.malt.fr/profile/florianbarbato"
+            target="_blank"
+            class="button--link margin--top--m"
+          >
+            Malt
+          </a>
           <a
             href="https://github.com/rianfloo"
             target="_blank"
