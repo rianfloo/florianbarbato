@@ -43,6 +43,13 @@
             Malt
           </a>
           <a
+            href="https://codepen.io/rianfloo/pens/popular"
+            target="_blank"
+            class="button--link margin--top--m"
+          >
+            CodePen
+          </a>
+          <a
             href="https://github.com/rianfloo"
             target="_blank"
             class="button--link margin--top--m"
