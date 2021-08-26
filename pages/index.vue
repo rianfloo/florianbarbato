@@ -35,13 +35,6 @@
           >
             Dribbble
           </a>
-           <a
-            href="https://www.malt.fr/profile/florianbarbato"
-            target="_blank"
-            class="button--link margin--top--m"
-          >
-            Malt
-          </a>
           <a
             href="https://codepen.io/rianfloo/pens/popular"
             target="_blank"
@@ -57,11 +50,11 @@
             GitHub
           </a>
           <a
-            href="mailto:florian@florianbarbato.com"
+            href="mailto:flobarbato@gmail.com"
             target="_blank"
             class="button--link margin--top--m"
           >
-            florian@florianbarbato.com
+            flobarbato@gmail.com
           </a>
         </div>
       </div>
